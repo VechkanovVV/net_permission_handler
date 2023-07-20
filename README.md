@@ -30,11 +30,11 @@ import 'package:netPermissionHandler/net_permission_handler.dart';
    ```
 4. Start monitoring network connectivity changes and camera permissions status as required.
 
-5. Also make sure that minSdkVersion = 19, if not put it into build.gradle:
+5. Also make sure that minSdkVersion = 16, if not put it into build.gradle:
 ```   
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
    ```
