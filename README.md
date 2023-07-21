@@ -21,12 +21,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  netPermissionHandler:
+  net_permission_handler:
     path: ../
 ```
 3. Add to your project
 ```
-import 'package:netPermissionHandler/net_permission_handler.dart';
+'package:net_permission_handler/net_permission_handler.dart'
    ```
 4. Start monitoring network connectivity changes and camera permissions status as required.
 
