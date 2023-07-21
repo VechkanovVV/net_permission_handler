@@ -1,4 +1,4 @@
-package dev.netPermissionHandler;
+package dev.net_permission_handler;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

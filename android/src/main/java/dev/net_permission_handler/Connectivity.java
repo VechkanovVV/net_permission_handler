@@ -1,4 +1,4 @@
-package dev.netPermissionHandler;
+package dev.net_permission_handler;
 
 import android.net.ConnectivityManager;
 import android.net.Network;

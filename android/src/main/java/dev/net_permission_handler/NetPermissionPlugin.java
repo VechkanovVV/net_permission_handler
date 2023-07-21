@@ -1,4 +1,4 @@
-package dev.netPermissionHandler;
+package dev.net_permission_handler;
 
 import android.Manifest;
 import android.app.Activity;

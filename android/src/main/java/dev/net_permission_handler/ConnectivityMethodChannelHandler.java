@@ -1,4 +1,4 @@
-package dev.netPermissionHandler;
+package dev.net_permission_handler;
 
 import androidx.annotation.NonNull;
 import io.flutter.plugin.common.MethodCall;
