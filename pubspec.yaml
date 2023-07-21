@@ -1,7 +1,7 @@
-name: netPermissionHandler
+name: net_permission_handler
 description: Flutter plugin for checking connectivity (wifi/mobile) and get permission to the camera on Android.
 version: 0.0.1
-homepage:
+homepage: https://github.com/VechkanovVV/net_permission_handler
 
 environment:
   sdk: '>=3.0.6 <4.0.0'

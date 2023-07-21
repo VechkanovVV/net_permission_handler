@@ -51,7 +51,7 @@ import 'package:netPermissionHandler/net_permission_handler.dart';
 * ```checkConnection()``` - checking the network connection, the result of which is the string: "wifi" or "mobile" or "none"
 * ```requestCameraPermission()``` - requests permission to use the camera, requests permission to use the camera, the result is the bool value (this is not properly working at the moment)
 
-*  To check if the connection to network, you may use this part of code:
+*  To check if the connection to network change, you may use this part of code:
 ```
 NetPermissionHandler.startNetworkStatusListener((status) {
       setState(() {

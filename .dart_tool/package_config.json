@@ -260,13 +260,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "netPermissionHandler",
+      "name": "net_permission_handler",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-21T13:58:43.692984Z",
+  "generated": "2023-07-21T14:03:50.700530Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
