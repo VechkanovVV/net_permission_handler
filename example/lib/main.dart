@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:netPermissionHandler/net_permission_handler.dart';
+import 'package:net_permission_handler/net_permission_handler.dart';
 
 class ConnectionStatusWidget extends StatefulWidget {
   @override
